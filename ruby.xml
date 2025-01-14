@@ -7,11 +7,6 @@
     <KeyWord name="new" />
     <KeyWord name="allocate" />
     <KeyWord name="superclass" />
-    <KeyWord name="<=>" />
-    <KeyWord name="<=" />
-    <KeyWord name=">=" />
-    <KeyWord name="==" />
-    <KeyWord name="===" />
     <KeyWord name="included_modules" />
     <KeyWord name="include?" />
     <KeyWord name="name" />
